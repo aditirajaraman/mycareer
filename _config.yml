@@ -83,6 +83,11 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/aditi-rajaraman-556138238"
+
+collections:
+    portfolio:
+      output: true
+      permalink: /:collection/:path/
       
 defaults:
   # _posts
@@ -103,6 +108,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _portfolio
+  - scope:
+      path: "_portfolio"
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 category_archive:
   type: liquid
