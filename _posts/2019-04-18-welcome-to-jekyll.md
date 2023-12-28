@@ -4,8 +4,8 @@ date: 2019-04-18T15:34:30-04:00
 categories:
   - blog
 tags:
-  - Jekyll
-  - update
+  - Short Story
+  - Creative Writing
 ---
 
 I arose from my slumber, allowing the early daylight to enter my bedroom through the crevices and spaces in the slats of my blinds. The dust collecting on my windowsill resembles the beach a block down from my house in which the moisture droplets from the humid spring mists of Miami resemble the sea.

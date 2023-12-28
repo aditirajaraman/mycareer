@@ -3,8 +3,8 @@ title: "Shackled Spectrum"
 categories:
   - Blog
 tags:
-  - Post Formats
-  - quote
+  - Poetry
+  - Creative Writing
 ---
 
 I hate that all depression art is the same,
