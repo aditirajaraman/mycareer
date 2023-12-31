@@ -23,8 +23,84 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+ <p>(<br>)One last time.(<br>) 
+          (<br>)One last time,(<br>) 
+          (<br>)may I walk downtown,(<br>) 
+          (<br>)watch rain clouds,(<br>)
+          (<br>)drown the sky, (<br>)
+          (<br>)among hidden stars, (<br>)
+          (<br>)and the sun. (<br>)
+          (<br>)Just one last time.(<br>)</p>
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+          <p>(<br>)One last time,(<br>)
+            (<br>)may I see,(<br>)
+            (<br>)skin color - and race, (<br>)
+            (<br>)not speak,(<br>)
+            (<br>)louder than actions.(<br>)</p>
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+             <p>(<br>)One last time,(<br>)
+              (<br>)may I see the charred - dark sky,(<br>)
+              (<br>)fade into silver light, (<br>)
+              (<br>)as the angels above, (<br>)
+              (<br>)have mercy upon my soul. (<br>)
+              (<br>)Just one last time. (<br>)</p>
+
+              <p>(<br>)One last time, (<br>)
+                (<br>)may I feel God's breath, (<br>)
+                (<br>)stroke my face, (<br>)
+                (<br>)rain tumbles, (<br>)
+                (<br>)across a road (<br>)
+                (<br>)only led by wind. (<br>)
+                (<br>)Just one last time.(<br>)</p>
+
+                <p>(<br>)One last time, (<br>)
+                  (<br>)may I walk,(<br>)
+                  (<br>)through barren quicksand, (<br>)
+                  (<br>)where panic, (<br>)
+                  (<br>)leads to my death. (<br>)
+                  (<br>)Just one last time.(<br>)</p>
+
+                  <p>(<br>)One last time, (<br>)
+                    (<br>)may I sail a boat,(<br>)
+                    (<br>)across a sea of ignorance, (<br>)
+                    (<br>)and possible hope.(<br>)
+                    (<br>)may I see the blank space of blue, (<br>)
+                    (<br>)stare into my hopeless eyes. (<br>)
+                    (<br>)Feeding on my anxiety, (<br>)
+                    (<br>)and frustration.  (<br>)
+                    (<br>)Just one last time.(<br>)</p>
+
+                    <p>(<br>)One last time, (<br>)
+                      (<br>)may I hear the world, (<br>)
+                      (<br>)judge my skin. (<br>)
+                      (<br>)may I plea to god, (<br>)
+                      (<br>)“Make the world change”.(<br>)
+                      (<br>)Just one last time. (<br>)</p>
+
+                      <p>(<br>)One last time, (<br>)
+                        (<br>)may I hear people call, (<br>)
+                        (<br>)“Are you okay?”(<br>)
+                        (<br>)“Stop choking him!”(<br>)
+                        (<br>)“Don’t kill that man!”(<br>)</p>
+
+                        <p>(<br>)One last time.(<br>)</p>
+
+                        <p>(<br>)When?(<br>)
+                          (<br>)when will,(<br>)
+                          (<br>)people’s hearts,(<br>)
+                          (<br>) and mindless souls,(<br>)
+                          (<br>)respond to our black voices?(<br>) </p>
+
+                          <p>(<br>)One last time, (<br>)
+                            (<br>) may I watch my children,(<br>)
+                            (<br>)leap into my arms.(<br>)</p>
+
+                            <p>(<br>)When,(<br>)
+                              (<br>)when will they live,(<br>)
+                              (<br>)in the land of free.(<br>)
+                              (<br>)When will,(<br>)
+                              (<br>)kids of all races,(<br>)
+                              (<br>)sing the anthem,(<br>)
+                              (<br>) true.(<br>)</p>
+
+                              <p>(<br>)For the first time.(<br>)</p>
