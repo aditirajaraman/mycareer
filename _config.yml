@@ -90,7 +90,9 @@ collections:
     portfolio:
       output: true
       permalink: /:collection/:path/
-      
+    research:
+      output: true
+      permalink: /:collection/:path/
 defaults:
   # _posts
   - scope:
@@ -118,8 +120,16 @@ defaults:
       layout: single
       author_profile: false
       share: true
-
+  # _research
+  - scope:
+      path: "_research"
+      type: research
+    values:
+      layout: single
+      author_profile: false
+      share: true
 category_archive:
+
   type: liquid
   path: /categories/
 tag_archive:
