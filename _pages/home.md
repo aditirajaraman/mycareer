@@ -15,14 +15,14 @@ feature_row:
     alt: "fully responsive"
     title: "Creative Writing"
     excerpt: "Check out my Creative Writing pieces!"
-    url: "/posts/"
+    url: "/creative-writing/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/coding.jpeg
     alt: "100% free"
     title: "Programming"
     excerpt: "Check out my coding projects!"
-    url: "/posts/"
+    url: "/programming/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 my_number: 5      
