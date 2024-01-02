@@ -1,6 +1,6 @@
 ---
 title: "Enigma"
-excerpt: "This compelling poem about the complexities of the human, emotional journey received a Gold Key at the Scholastic Art and Writing Awards 2021."
+excerpt: "This compelling poem about the complexities of the human, emotional journey received a Gold Key at the Scholastic Art and Writing Awards 2022."
 header:
   image: /assets/images/unsplash-gallery-image-1.jpg
   teaser: assets/images/unsplash-gallery-image-1-th.jpg
