@@ -3,7 +3,7 @@ main:
     url: /posts/
   - title: "Categories"
     url: /categories/
-  - title: "Awards"
+  - title: "Recognition"
     url: /portfolio/
   - title: "About"
     url: /about/
