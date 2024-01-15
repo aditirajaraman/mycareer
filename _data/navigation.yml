@@ -1,9 +1,9 @@
 main:
-  - title: "Blogs"
+  - title: "Portfolio"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Recognition"
-    url: /portfolio/
+  # - title: "Categories"
+  #   url: /categories/
+  # - title: "Recognition"
+  #   url: /portfolio/
   - title: "About"
     url: /about/
