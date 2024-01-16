@@ -41,7 +41,7 @@ my_number: 5
 } 
 </style>
 <div class="container">
-  <div class="box box1"><img src="/assets/images/Girls_Who_Code_Logo.jpg" alt="a balloon"></div>
+  <div class="box box1"><img src="assets/images/Girls_Who_Code_Logo.jpg" alt="a balloon"></div>
 </div>
 <br>
 <p>I am a student at John P. Stevens High School and pursuing a career of research and biology - specifically, genomics. My aim is to utilize the integration of Artificial Intelligence(AI), statistical analysis, and biology to build the future of Earth and technology. I have a strong foundation in programming languages, Python and CSS/HTML/JS, & scientific research. At the age of 14, I developed a research project about a solution for Ischemic Strokes alongside my science teacher, which I later presented at a statewide fair in front of a crowd of 50+ families and high school science teachers/college professers. </p>
