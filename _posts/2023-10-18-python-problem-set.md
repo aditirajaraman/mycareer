@@ -22,8 +22,8 @@ print(greeting)
 
 3. Define a variable named logicalOperator that stores True. Print this variable.
 ```
-logicalOperator = "True"<br>
-print(logicalOperator)<br>
+logicalOperator = "True"
+print(logicalOperator)
 ```
 
 4. Define a variable called deci that stores the float 4.302801. Print this variable.

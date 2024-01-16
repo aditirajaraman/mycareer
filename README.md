@@ -30,5 +30,8 @@ If you have a question about using Jekyll, start a discussion on the [Jekyll For
 https://github.com/mmistakes/minimal-mistakes
 https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
+# Markdown Cheatsheet
+https://www.markdownguide.org/cheat-sheet/
+
 # Running Project 
 bundle exec jekyll serve
