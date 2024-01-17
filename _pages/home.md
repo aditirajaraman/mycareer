@@ -54,4 +54,4 @@ Hello! I am a student at John P. Stevens High School and pursuing a career in bi
 
 In my free time, I investigate multiple subtopics of Biology(e.g. genomics, molecular biology, etc.) and Artificial Intelligence(AI). I am proficient in a multitude of programming languages such as HTML, CSS, Javascript, and Python. I also indulge in great amounts of creative writing pieces, whether that be reading, or writing. 
 
-In the eighth grade, I proposed a prognostic solution which detected the early onset of Ischemic strokes in heart patients. Additionally, I received a variety of Statewide creative writing awards with acceptance rates of less than 5%.
+In the eighth grade, I proposed a prognostic solution which detected the early onset of Ischemic strokes in heart patients. Additionally, I received a variety of Statewide Creative writing awards with acceptance rates of less than 5%.
