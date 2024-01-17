@@ -4,8 +4,8 @@ date: 2023-12-12T15:34:30-04:00
 categories:
   - code
 tags:
-  - Short Story
-  - Creative Writing
+  - programming
+  - javascript
 ---
 
 //1. Using the user's input for n, make a for loop to print all the odd numbers up to and including n (not including 0).<br>
