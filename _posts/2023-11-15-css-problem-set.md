@@ -7,47 +7,37 @@ tags:
   - programming
   - CSS
 ---
-
-__.css  (Paste this in your CSS file)<br>
-/* #5 Make all of the paragraphs green */<br>
+1. Make all of the paragraphs green
 ```
-p {<br>
-   color: green;<br>
-}<br>
+p {
+   color: green;
+}
 ```
-/* #6 Make an id called "large" and assign it to one of your headings*/<br>
+2 Make an id called "large" and assign it to one of your headings
 ```
-/* Then make "large" have a font size of 36px */<br>
-#large {<br>
-   font-size: 36px;<br>
-}<br>
+/* Then make "large" have a font size of 36px */
+#large {
+   font-size: 36px;
+}
 ```
-/* #7 Make a class called "small" and assign it to the remaining two of your headings*/<br>
+3. Make a class called "small" and assign it to the remaining two of your headings
 ```
-/* Then make "small" have a font size of 12px */<br>
-/* Change the font to something you like as well */<br>
-.small {<br>
-   font-size: 12px;<br>
-   font-family: fantasy;<br>
-}<br>
+/* Then make "small" have a font size of 12px */
+/* Change the font to something you like as well */
+.small {
+   font-size: 12px;
+   font-family: fantasy;
+}
 ```
-/* #8 Adjust the margins, width, height AND filter of your image */<br>
+4. Adjust the margins, width, height AND filter of your image
 ```
-img <br>
-  display: solid; <br>
-  width: 70%; <br>
-  height: auto; <br>
-  filter: grayscale(50%); <br>
-  margin-left: 30 px; <br>
-  margin-right: 30 px; <br>
-  margin-top: 20 px; <br>
-  margin-bottom: 20 px;<br>
+img 
+  display: solid; 
+  width: 70%; 
+  height: auto; 
+  filter: grayscale(50%); 
+  margin-left: 30 px; 
+  margin-right: 30 px; 
+  margin-top: 20 px; 
+  margin-bottom: 20 px;
 ```
-
-
-
-
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/

@@ -134,11 +134,3 @@ function factorial(n){
 }
 console.log(factorial(4));
 ```
-
-
-
-
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
