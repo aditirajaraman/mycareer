@@ -65,6 +65,7 @@ while (tries < 4) {
 
 ```
 
+
  5. Make a program which uses a for loop with a range of 90. Your loop should go through the numbers 0-90 and print butter if the number is divisible by 4, fly if the number is divisible by 7, and butterfly if the number is divisible by both 3 & 5.
 ```
 for (var i = 0; i <= 90; i++) {
@@ -81,6 +82,7 @@ for (var i = 0; i <= 90; i++) {
 
 ```
 
+
  6. Make a program which takes in an integer and uses a while loop to print the times table of that integer up til the number 15 in the console. Ex. If user enters 4, program prints 4....60
 
 ```
@@ -92,6 +94,7 @@ i++;
 }
 
 ```
+
 
  7. Create a function which takes in a base and a power and returns the exponent without using the ** operation. hint: use a for loop
 
@@ -107,6 +110,7 @@ console.log(power(2, 3));
 
 ```
 
+
 8. Create a function which takes in an integer and returns its absolute value.
 
 ```
@@ -119,6 +123,7 @@ function absolute_value(x) {
 }
 
 ```
+
 
 9.  A quadratic equation ax² + bx + c = 0 has either 0, 1, or 2 distinct solutions for real values of x. Given a, b and c, you should return the number of solutions to the equation. hint: use the equation b²-4ac; if result is <0, then 0 real solutions, if result is =0, then 1 solution, & if result>0, then 2 solutions
 
@@ -133,7 +138,6 @@ function sol(a, b, c) {
     return 2;
   }
 }
-
 
 ```
 
