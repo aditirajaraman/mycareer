@@ -8,7 +8,7 @@ tags:
   - programming
 ---
 
-Create a function that checks if a given number is a prime number. The function should return True if the number is prime and False otherwise.
+1. Create a function that checks if a given number is a prime number. The function should return True if the number is prime and False otherwise.
 
 ```
 def prime(num):
@@ -23,7 +23,7 @@ def prime(num):
 print(prime(13))
 ```
 
-Create a Calculator with methods to perform basic arithmetic operations: add, subtract, multiply, and divide. Each method should take two numbers as parameters and return the result of the operation.
+2. Create a Calculator with methods to perform basic arithmetic operations: add, subtract, multiply, and divide. Each method should take two numbers as parameters and return the result of the operation.
 
 ```
 def add(num1, num2):
@@ -39,7 +39,7 @@ def div(num1, num2):
   print(num1/num2)
 ```
 
-Create two methods which take the weather in Fahrenheit and return it to Celsius and vice versa. Each method takes one number as a parameter  and returns the result. 
+3. Create two methods which take the weather in Fahrenheit and return it to Celsius and vice versa. Each method takes one number as a parameter  and returns the result. 
 ```
 def C_to_F(C):
   print(C* (9/5+32))
