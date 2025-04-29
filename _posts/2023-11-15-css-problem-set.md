@@ -1,5 +1,5 @@
 ---
-title: "CSS Problem Set"
+title: "Python Mini Project"
 date: 2023-11-15T15:34:30-04:00
 categories:
   - code
@@ -7,37 +7,62 @@ tags:
   - programming
   - CSS
 ---
-1. Make all of the paragraphs green
+
 ```
-p {
-   color: green;
-}
-```
-2 Make an id called "large" and assign it to one of your headings
-```
-/* Then make "large" have a font size of 36px */
-#large {
-   font-size: 36px;
-}
-```
-3. Make a class called "small" and assign it to the remaining two of your headings
-```
-/* Then make "small" have a font size of 12px */
-/* Change the font to something you like as well */
-.small {
-   font-size: 12px;
-   font-family: fantasy;
-}
-```
-4. Adjust the margins, width, height AND filter of your image
-```
-img 
-  display: solid; 
-  width: 70%; 
-  height: auto; 
-  filter: grayscale(50%); 
-  margin-left: 30 px; 
-  margin-right: 30 px; 
-  margin-top: 20 px; 
-  margin-bottom: 20 px;
+import matplotlib.pyplot as plt
+expenses = []
+def add_expense():
+    date = input("Enter the date (YYYY-MM-DD): ")
+    category = input("Enter the category (e.g., groceries, entertainment, utilities): ")
+    amount = input("Enter the amount: ")
+    expenses.append({"date": date, "category": category, "amount": float(amount)})
+    print("Expense added successfully!")
+def show_summary():
+    if len(expenses) == 0:
+        print("No expenses to summarize.")
+        return
+    total = sum(expense['amount'] for expense in expenses)
+    print(f"Total spending: ${total:.2f}")
+    categories = {}
+    for expense in expenses:
+        if expense['category'] in categories:
+            categories[expense['category']] += expense['amount']
+        else:
+            categories[expense['category']] = expense['amount']
+    print("Spending by category:")
+    for category, amount in categories.items():
+        print(f"{category}: ${amount:.2f}")
+def visualize_data():
+    if len(expenses) == 0:
+        print("No expenses to visualize.")
+        return
+    categories = {}
+    for expense in expenses:
+        if expense['category'] in categories:
+            categories[expense['category']] += expense['amount']
+        else:
+            categories[expense['category']] = expense['amount']
+    plt.bar(categories.keys(), categories.values())
+    plt.title("Spending by Category")
+    plt.xlabel("Category")
+    plt.ylabel("Amount")
+    plt.show()
+
+    print("Personal Expense Tracker")
+    print("1. Add an Expense")
+    print("2. Show Summary Report")
+    print("3. Visualize Data")
+    print("4. Exit")
+    choice = input("Choose an option: ")
+    if choice == "1":
+        add_expense()
+    elif choice == "2":
+        show_summary()
+    elif choice == "3":
+        visualize_data()
+    elif choice == "4":
+        print("Goodbye!")
+
+    else:
+        print("Invalid choice. Please try again.")
 ```
