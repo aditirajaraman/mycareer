@@ -1,6 +1,6 @@
 ---
 title: "Python Mini Project"
-date: 2025-11-15T15:34:30-04:00
+date: 2023-11-15T15:34:30-04:00
 categories:
   - code
 tags:
